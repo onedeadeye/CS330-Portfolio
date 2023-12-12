@@ -1,0 +1,18 @@
+﻿  Source.cpp
+C:\Users\liamd\Documents\SNHU\term 17\opengl course\OpenGLCourse\3DSceneProject\Source.cpp(448,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\liamd\Documents\SNHU\term 17\opengl course\OpenGLCourse\3DSceneProject\Source.cpp(562,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\liamd\Documents\SNHU\term 17\opengl course\OpenGLCourse\3DSceneProject\Source.cpp(563,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\liamd\Documents\SNHU\term 17\opengl course\OpenGLCourse\3DSceneProject\Source.cpp(567,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\liamd\Documents\SNHU\term 17\opengl course\OpenGLCourse\3DSceneProject\Source.cpp(568,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\liamd\Documents\SNHU\term 17\opengl course\OpenGLCourse\3DSceneProject\Source.cpp(570,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\liamd\Documents\SNHU\term 17\opengl course\OpenGLCourse\3DSceneProject\Source.cpp(571,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\liamd\Documents\SNHU\term 17\opengl course\OpenGLCourse\3DSceneProject\Source.cpp(584,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\liamd\Documents\SNHU\term 17\opengl course\OpenGLCourse\3DSceneProject\Source.cpp(1034,20): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+  Generating code
+  0 of 342 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  3DSceneProject.vcxproj -> C:\Users\liamd\Documents\SNHU\term 17\opengl course\OpenGLCourse\Release\3DSceneProject.exe
+  C:\Users\liamd\Documents\SNHU\term 17\opengl course\OpenGLCourse\bin\glew-2.2.0\Release\x64\glew32.dll
+  1 File(s) copied
